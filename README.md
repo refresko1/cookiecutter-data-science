@@ -1,28 +1,23 @@
-# Cookiecutter Conda Data Science
+# Cookiecutter  Data Science
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
 
 ## Requirements
 
-- [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html)
-- [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html): This can be installed with pip by or conda depending on how you manage your Python packages:
+- [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html): This can be installed with pip, depending on how you manage your Python packages:
 
 ``` bash
 pip install cookiecutter
 ```
 
-or
 
-``` bash
-conda install -c conda-forge cookiecutter
-```
-
+z
 ## Create a new project
 
 In a folder where you want your project generated:
 
 ```bash
-cookiecutter https://github.com/jvelezmagic/cookiecutter-conda-data-science
+cookiecutter https://github.com/refresko1/cookiecutter-data-science
 ```
 
 ## Resulting directory structure
