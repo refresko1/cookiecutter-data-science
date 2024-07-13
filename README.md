@@ -19,6 +19,21 @@ In a folder where you want your project generated:
 ```bash
 cookiecutter https://github.com/refresko1/cookiecutter-data-science
 ```
+inside the project folder create a virtual environment:
+
+```bash
+python3 -m venv env
+```
+
+Activate env
+```bash
+source env/bin/activate
+```
+
+install requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ## Resulting directory structure
 
