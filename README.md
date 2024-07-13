@@ -11,7 +11,7 @@ pip install cookiecutter
 ```
 
 
-z
+
 ## Create a new project
 
 In a folder where you want your project generated:
